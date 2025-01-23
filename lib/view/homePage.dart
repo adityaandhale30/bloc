@@ -12,7 +12,7 @@ class HomePage extends StatelessWidget {
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
-          children: [Text("Bloc Practice")],
+          children: [Text("Bloc Practice"),],
         ),
       ),
     );
